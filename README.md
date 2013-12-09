@@ -1,4 +1,4 @@
 ftcl
 ====
 
-Flowchart to Common Languguages pseudocompiler
+Flowchart to Common Languages pseudocompiler
